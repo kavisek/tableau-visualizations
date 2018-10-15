@@ -4,7 +4,7 @@ I have displayed a few Tableau Dashboard using public datasets below. You can fi
 
 #### Transaction Dashboard
 
-![Transaction Dashboard](Workbooks/BreakingBread/BreakBreadDashboard.png)
+![Transaction Dashboard](Workbooks/Breaking Bread/BreakBreadDashboard.png)
 
 - Workbook Name: Breaking Bread Dashboard
 - Dataset: [Bread Basket](https://www.kaggle.com/xvivancos/transactions-from-a-bakery)
