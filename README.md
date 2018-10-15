@@ -8,10 +8,12 @@ I have displayed a few Tableau Dashboard using public datasets below. You can fi
 
 - Workbook Name: Breaking Bread Dashboard
 - Dataset: [Bread Basket](https://www.kaggle.com/xvivancos/transactions-from-a-bakery)
-  - This dataset container transaction information on item purchases from a bakery. The dataset only spans six months.
+  - A dataset containing transaction information on item purchases from a bakery. The dataset only spans six months.
 
-  ![Crypto Currency Timeline](./Images/CryptoCurrencyTimeline.png)
+#### Crypto Currenty Timeline
 
-  - Workbook Name: Breaking Bread Dashboard
-  - Dataset: [Bread Basket](https://www.kaggle.com/xvivancos/transactions-from-a-bakery)
-    - This dataset container transaction information on item purchases from a bakery. The dataset only spans six months.
+![Crypto Currency Timeline](Workbooks/CryptoCurrencyTimeline/CryptoCurrencyTimeline.png)
+
+  - Workbook Name: Crypto Currency Timeline
+  - Dataset: [Cryptocurrency Historical Prices](https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory)
+    - A dataset containing the volume, market cap, and opening/closing prices every Crypto Currency coin.
