@@ -18,4 +18,5 @@ This dataset contained transaction information on item purchases from a bakery f
 
   - Workbook Name: Crypto Currency Timeline
   - Dataset: [Cryptocurrency Historical Prices](https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory)
-    - A dataset containing the volume, market cap, and opening/closing prices every Crypto Currency coin.
+
+This dataset contained the volume, market cap, and opening/closing prices of every cryptocurrency coin on a daily basis. The group of visualization above shows the lead-up and the aftermath of the early 2018 crypto currently bubble. We can see a general increase in the number of coins offered on the market before the crash, and a slight reduction after prices started dropping rapidly. 
