@@ -4,7 +4,7 @@ This repo is a portfolio of a few neat plots possible in Tableau, each plot cont
 
 #### Transaction Dashboard
 
-![Transactino Dashboard](Images/Break Bread Dashboard.png)
+![Transactino Dashboard](./Images/Break Bread Dashboard.png)
 
 - Workbook Name: Breaking Bread Dashboard
 - Dataset: [Bread Basket](https://www.kaggle.com/xvivancos/transactions-from-a-bakery)
