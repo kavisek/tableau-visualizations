@@ -8,9 +8,11 @@ I have displayed a few Tableau Dashboard using public datasets below. You can fi
 
 - Workbook Name: Breaking Bread Dashboard
 - Dataset: [Bread Basket](https://www.kaggle.com/xvivancos/transactions-from-a-bakery)
-  - A dataset containing transaction information on item purchases from a bakery. The dataset only spans six months.
 
-#### Crypto Currenty Timeline
+
+This dataset contained transaction information on item purchases from a bakery for six month period in late 2016 and early 2017. I only use the 2017 data to construct a simple dashboard showing us the top item sold from the bakery, the frequency of transaction concerning the time of the day, the total transactions per week in 2017, and a leaderboard of the most common item baskets we see our customer's purchase. This is a really simple dashboard that can be made if you have market basket data with time series information.
+
+#### Crypto Currency Timeline
 
 ![Crypto Currency Timeline](./Workbooks/CryptoCurrencyTimeline/CryptoCurrencyTimeline.png)
 
