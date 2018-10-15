@@ -4,7 +4,7 @@ I have displayed a few Tableau Dashboard using public datasets below. You can fi
 
 #### Transaction Dashboard
 
-![Transaction Dashboard](Workbooks/BreakingBread/BreakBreadDashboard.png)
+![Transaction Dashboard](./Workbooks/BreakingBread/BreakBreadDashboard.png)
 
 - Workbook Name: Breaking Bread Dashboard
 - Dataset: [Bread Basket](https://www.kaggle.com/xvivancos/transactions-from-a-bakery)
@@ -12,7 +12,7 @@ I have displayed a few Tableau Dashboard using public datasets below. You can fi
 
 #### Crypto Currenty Timeline
 
-![Crypto Currency Timeline](Workbooks/CryptoCurrencyTimeline/CryptoCurrencyTimeline.png)
+![Crypto Currency Timeline](./Workbooks/CryptoCurrencyTimeline/CryptoCurrencyTimeline.png)
 
   - Workbook Name: Crypto Currency Timeline
   - Dataset: [Cryptocurrency Historical Prices](https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory)
