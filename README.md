@@ -19,4 +19,14 @@ This dataset contained transaction information on item purchases from a bakery f
   - Workbook Name: Crypto Currency Timeline
   - Dataset: [Cryptocurrency Historical Prices](https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory)
 
-This dataset contained the volume, market cap, and opening/closing prices of every cryptocurrency coin on a daily basis. The group of visualization above shows the lead-up and the aftermath of the early 2018 crypto currently bubble. We can see a general increase in the number of coins offered on the market before the crash, and a slight reduction after prices started dropping rapidly. 
+This dataset contained the volume, market cap, and opening/closing prices of every cryptocurrency coin on a daily basis. The group of visualization above shows the lead-up and the aftermath of the early 2018 crypto currently bubble. We can see a general increase in the number of coins offered on the market before the crash, and a slight reduction after prices started dropping rapidly.
+
+
+#### Terrorist Attacks and Death Visualization
+
+![Crypto Currency Timeline](./Workbooks/GlobalTerrorism/GlobalTerrorism.png)
+
+- Workbook Name: Global Terrorism
+- Dataset [Global Terrorism Database](https://www.kaggle.com/START-UMD/gtd)
+
+This dataset logs major terrorist attacks across the world. The dataset can tell us the number deaths, wounded, and locations of each terror attack. The visualization above shows the death toll from these attacks per country as an interactive map in Tableau.
